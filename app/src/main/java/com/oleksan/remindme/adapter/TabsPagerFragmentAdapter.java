@@ -1,10 +1,10 @@
-package com.qoobico.remindme.adapter;
+package com.oleksan.remindme.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.qoobico.remindme.fragment.ExampleFragment;
+import com.oleksan.remindme.fragment.ExampleFragment;
 
 public class TabsPagerFragmentAdapter extends FragmentPagerAdapter {
 

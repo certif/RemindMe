@@ -1,4 +1,4 @@
-package com.qoobico.remindme.fragment;
+package com.oleksan.remindme.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.qoobico.remindme.R;
+import com.oleksan.remindme.R;
 
 public class ExampleFragment extends Fragment {
     private static final int LAYOUT = R.layout.fragment_example;

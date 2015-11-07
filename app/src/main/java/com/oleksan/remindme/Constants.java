@@ -1,4 +1,4 @@
-package com.qoobico.remindme;
+package com.oleksan.remindme;
 
 public class Constants {
 
